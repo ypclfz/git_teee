@@ -1,2 +1,4 @@
-weixin
-
+初始化: git init
+添加地址: git remote add [name] [url]
+拉代码: git pull [name] master
+更新代码: git add * > git commit -m '[note]' > git push [name] master 
